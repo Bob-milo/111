@@ -1,6 +1,7 @@
 import java.util.*
 class student{
-  private string name;
-  private string address;
-  int a = 1 ;
+      private string name;
+      private string address;
+      private string email;
+      private String telephone;   //新增电话属性
 }
